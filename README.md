@@ -4,16 +4,16 @@ An independent, interactive map of aggregate figures reported by Jehovah's Witne
 
 **Open the map:** https://halcondeoro.github.io/jw-sign-language-map/
 
-This is not an official JW website, a live directory or a complete world census. No personal or congregation-level directory is published. The interface is in Spanish; this README documents the project in English.
+This is not an official JW website, a live directory or a complete world census. No personal or congregation-level directory is published. The interface and project documentation are in English.
 
 ## Read the map
 
-1. Choose a data layer: **Localizador** (meeting-locator observations), **Noticias fechadas** (dated national news figures), or **Histórico** (older documentary figures).
+1. Choose a data layer: **Meeting locator** (meeting-locator observations), **Dated news** (dated national news figures), or **Historical** (older documentary figures).
 2. Choose congregations, groups or publishers. In the locator layer, the language selector can restrict the quantities to one exact language filter. The colors use the legend shown beneath the map.
 3. Select a country or territory, or search for a country or sign-language label. The country card shows its aggregate figures, dates, language breakdown where available and the source links supporting the figure.
 4. Use the table for sorting and filtering. Download CSV exports the current selection, with source links and dates.
 
-**s/d means no figure is available, not zero.** A zero observed in one query does not prove absence. Blank CSV cells have the same meaning as s/d.
+**n/a means no figure is available, not zero.** A zero observed in one query does not prove absence. Blank CSV cells have the same meaning as n/a.
 
 The layers must not be added together. They have different dates, scopes and collection methods. An increase in the observed sample is not evidence of real organizational growth. News figures retain qualifications such as approximately (≈), more than (>) or almost. Publishers are left blank unless the source gives a figure specifically for sign-language activity.
 
@@ -21,7 +21,7 @@ Groups and pregroups are separate categories. A combined figure for congregation
 
 ## Current published research cut
 
-As of 21 November 2026: 280 additional geographic/country-focused queries, 400 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 940 classified congregations and 662 classified groups in 117 countries/territories, covering 99 language filters and 132 country-language rows. The news layer has 22 national rows with their original dates.
+As of 21 November 2026: 292 additional geographic/country-focused queries, 400 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 950 classified congregations and 666 classified groups in 117 countries/territories, covering 99 language filters and 132 country-language rows. The news layer has 22 national rows with their original dates.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
