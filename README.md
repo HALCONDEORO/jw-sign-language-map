@@ -23,7 +23,7 @@ Groups and pregroups are separate categories. A combined figure for congregation
 
 ## Current published research cut
 
-As of 21 November 2026: 496 additional geographic/country-focused queries, 418 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1402 classified congregations and 936 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 44 more congregations and 40 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 10 congregations and 11 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
+As of 21 November 2026: 568 additional geographic/country-focused queries, 398 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1438 classified congregations and 972 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 44 more congregations and 40 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 10 congregations and 11 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
@@ -113,3 +113,9 @@ This independent research has no affiliation with or endorsement from JW.org, Gl
 The initial view uses the meeting-locator sample. Each country card also has separate dated documentary evidence, never added to locator observations. Filters & view contains secondary map-data views. On mobile, selecting or searching for a country fits the map to it; map controls and Back to map have large touch targets.
 
 Dated people figures show the source qualifier and date. These are not current publisher counts. Attendance is a separate event measure, never a publisher estimate or an addition to the publisher count. Two attendance observations are included: more than 3,000 at Brazil deaf district conventions in 2001 (article dated 1 February 2003), and 2,317 in-person attendees at the Mexican Sign Language Bible release on 1 January 2023 (article dated 17 January 2023). Unquantified livestream viewers are not included. See attendance.csv for the official sources and scope.
+
+## Publication-language catalogue and worldwide language totals
+
+The interface includes the official JW publication selector catalogue of 113 sign languages, checked on 21 November 2026. Of these, 12 had no exact-name meeting-locator filter in the recorded catalogue comparison. Publication availability is not evidence of meetings. The catalogue includes a separate source link for each language.
+
+Selecting a meeting-locator language displays its worldwide observed congregations, groups and countries/territories. This worldwide summary is independent of country search and continent filters; the map and country table retain their own filters. It is a sample, not a census.
