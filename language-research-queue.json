@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Armenian Sign Language",
+    "url": "https://www.jw.org/open?locale=aen&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Catalan Sign Language",
+    "url": "https://www.jw.org/open?locale=csc&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Dominican Sign Language",
+    "url": "https://www.jw.org/open?locale=doq&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Eritrean Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-er&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Georgian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-ge&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Hong Kong Sign Language",
+    "url": "https://www.jw.org/open?locale=hks&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Lebanese Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-lb&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Maltese Sign Language",
+    "url": "https://www.jw.org/open?locale=mdl&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Singapore Sign Language",
+    "url": "https://www.jw.org/open?locale=sls&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Slovenian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-si&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Trinidad and Tobago Sign Language",
+    "url": "https://www.jw.org/open?locale=lst&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  },
+  {
+    "name": "Ukrainian Sign Language",
+    "url": "https://www.jw.org/open?locale=ukl&prefer=lang&srcid=langpicker",
+    "locatorExactName": false,
+    "status": "publication-language-only; no exact locator filter",
+    "meetingFilter": null,
+    "researchSource": "https://www.jw.org/en/choose-language?onlySL=1",
+    "nextCheck": "Look for dated official aggregate evidence or a separately verified locator filter; do not infer meetings from publication availability"
+  }
+]
