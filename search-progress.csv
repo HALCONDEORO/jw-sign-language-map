@@ -22,7 +22,7 @@ STD,Estonian Sign Language,5,0,0,0,0,1,1
 SEC,Ecuadorian Sign Language,9,8,0,19,39,4,7
 LSM,Mexican Sign Language,84,4,0,16,210,8,82
 KSL,Korean Sign Language,8,1,0,23,38,1,2
-ISL,Italian Sign Language,8,2,0,11,15,13,16
+ISL,Italian Sign Language,13,1,0,11,15,13,16
 HDF,Hungarian Sign Language,4,1,0,1,1,2,2
 DGS,German Sign Language,10,9,0,10,12,12,13
 RSL,Russian Sign Language,4,1,0,8,20,14,20
@@ -45,7 +45,7 @@ TTM,Madagascar Sign Language,4,1,0,12,15,11,16
 OGS,Austrian Sign Language,1,4,0,2,2,2,2
 VGT,Flemish Sign Language,1,4,0,1,1,1,1
 MSL,Malawi Sign Language,8,5,0,11,16,12,14
-FSL,Filipino Sign Language,4,1,0,18,33,5,6
+FSL,Filipino Sign Language,10,3,0,18,62,5,28
 CBS,Cuban Sign Language,1,4,0,0,0,1,1
 SHO,Honduras Sign Language,8,5,0,17,18,7,8
 SLM,Mozambican Sign Language,4,5,0,5,11,15,25
@@ -60,7 +60,7 @@ LSS,Salvadoran Sign Language,1,4,0,9,9,8,8
 CRS,Central African Republic Sign Language,1,4,0,1,1,1,1
 FJS,Fiji Sign Language,1,4,0,1,1,1,1
 CGS,Congolese Sign Language,4,4,0,13,19,7,30
-NNS,Nigerian Sign Language,4,5,0,18,28,5,13
+NNS,Nigerian Sign Language,17,4,0,18,55,5,33
 ESL,Ethiopian Sign Language,1,4,0,1,1,0,0
 SWS,Swazi Sign Language,1,4,0,1,1,1,1
 WSL,Botswana Sign Language,1,4,0,0,0,1,1
