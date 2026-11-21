@@ -8,7 +8,7 @@ This is not an official JW website, a live directory or a complete world census.
 
 ## Read the map
 
-1. Choose a data layer: **Meeting locator** (meeting-locator observations), **Dated news** (dated national news figures), or **Historical** (older documentary figures).
+1. The initial view shows meeting-locator figures. Dated news and historical observations are integrated as separate sections in each country card, never summed. For secondary map views, open Filters & view and choose Map data: **Meeting locator** (meeting-locator observations), **Dated news** (dated national news figures), or **Historical** (older documentary figures).
 2. Choose congregations, groups or publishers. In the locator layer, the language selector can restrict the quantities to one exact language filter. The colors use the legend shown beneath the map.
 3. Select a country or territory, or search for a country or sign-language label. The country card shows its aggregate figures, dates, language breakdown where available and the source links supporting the figure.
 4. Use the table for sorting and filtering. Download CSV exports the current selection, with source links and dates.
