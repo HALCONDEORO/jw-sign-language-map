@@ -21,7 +21,7 @@ Groups and pregroups are separate categories. A combined figure for congregation
 
 ## Current published research cut
 
-As of 21 November 2026: 341 additional geographic/country-focused queries, 435 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1217 classified congregations and 873 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer1:10m country polygons classify 44 more congregations and 42 more groups than the previous1:110m polygons. Those differences are reclassification, not new observations. 9 congregations and 9 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
+As of 21 November 2026: 381 additional geographic/country-focused queries, 419 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1307 classified congregations and 896 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 45 more congregations and 42 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 9 congregations and 9 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
@@ -40,7 +40,7 @@ These are research-state figures for this repository, not coverage percentages. 
 
 ### Documentary figures and language research
 
-The JW publication selector lists113 sign languages; the locator lists101 exact corresponding filters. Twelve publication-only labels remain explicit research leads. Catalogs were checked on21November2026 at https://www.jw.org/en/choose-language?onlySL=1 and https://hub.jw.org/meetings/api/languages . These are catalog counts, not meeting counts.
+The JW publication selector lists 113 sign languages; the locator lists 101 exact corresponding filters. Twelve publication-only labels remain explicit research leads. Catalogs were checked on 21 November 2026 at https://www.jw.org/en/choose-language?onlySL=1 and https://hub.jw.org/meetings/api/languages . These are catalog counts, not meeting counts.
 
 Official news and yearbooks supply dated quantities. The source's scope, date and qualifications are retained. Older figures are not silently merged into newer figures. Independent language catalogs, including Glottolog, and Deaf-led sources help prepare country-language search candidates. Catalog classification, recognized legal status, current language use and evidence of meetings are different things.
 
@@ -48,7 +48,7 @@ A country can have several sign languages and a sign language can occur in sever
 
 ### Geography and population
 
-Country/territory assignment uses full Natural Earth1:10m polygons, separately from the schematic display map. The display combines the original simplified world outline with smaller territories absent from it. Points outside the classification polygons or in ambiguous overlaps remain unclassified; they are never snapped to the nearest country. Reclassification after a geography update changes national samples without showing real organizational growth. Small islands and coastlines can still be missing or uncertain. The map is schematic, not a boundary authority. The count of mapped areas includes territories, not only sovereign states.
+Country/territory assignment uses full Natural Earth 1:10m polygons, separately from the schematic display map. The display combines the original simplified world outline with smaller territories absent from it. Points outside the classification polygons or in ambiguous overlaps remain unclassified; they are never snapped to the nearest country. Reclassification after a geography update changes national samples without showing real organizational growth. Small islands and coastlines can still be missing or uncertain. The map is schematic, not a boundary authority. The count of mapped areas includes territories, not only sovereign states.
 
 Groups per million uses World Bank population for 2025: `groups in the selected layer / population × 1,000,000`. Dates can differ. The result does not measure the Deaf population, accessibility, unmet need or service coverage.
 
@@ -91,7 +91,7 @@ This source package does not contain the live collector or individual meeting da
 - Original news/yearbook URLs are attached to their individual data rows.
 - Glottolog 5.4, language/country research leads: https://glottolog.org/download . Hammarström, Harald; Forkel, Robert; Haspelmath, Martin; Bank, Sebastian (2026), Max Planck Institute for Evolutionary Anthropology. CC BY 4.0. Its categories and country associations are not claims of meetings or legal recognition.
 - World Federation of the Deaf, national sign-language recognition research: https://wfdeaf.org/the-legal-recognition-of-national-sign-languages/
-- Natural Earth1:10m point-classification geography: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson
+- Natural Earth 1:10m point-classification geography: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson
 - Original Natural Earth simplified display geography: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson
 - World Bank population: https://data.worldbank.org/indicator/sp.pop.totl and https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2025&format=json&per_page=400
 
