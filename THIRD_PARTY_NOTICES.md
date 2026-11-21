@@ -64,4 +64,4 @@ Continent and ISO metadata: Natural Earth, public domain. https://github.com/nvk
 
 The map view uses geoNaturalEarth1 and geoPath from d3-geo 3.1.2, bundled with d3-array 3.2.5 using esbuild. Both are ISC licensed, copyright Mike Bostock. Full license text is included in vendor/d3-geo-LICENSE and vendor/d3-array-LICENSE. No code, artwork or brand assets from the design reference sites have been copied.
 
-Natural Earth1:10m administrative geography v5.1.2 is used privately for country/territory classification and to supplement smaller areas missing from the simplified display. Public-domain source: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson . The published map remains schematic, not a boundary authority.
+Natural Earth 1:10m administrative geography v5.1.2 is used privately for country/territory classification and to supplement smaller areas missing from the simplified display. Public-domain source: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson . The published map remains schematic, not a boundary authority.
