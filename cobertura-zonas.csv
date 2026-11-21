@@ -7,19 +7,19 @@ MTS,Mauritian Sign Language,4,0,0,0,0,1,1
 FID,Finnish Sign Language,4,1,0,2,2,2,2
 JSL,Japanese Sign Language,4,5,0,3,4,20,30
 NDF,Norwegian Sign Language,4,1,0,1,1,0,0
-ASL,American Sign Language,8,10,0,15,62,8,40
+ASL,American Sign Language,9,9,0,15,67,8,42
 LSA,Argentinean Sign Language,5,4,0,18,33,5,20
 BSL,British Sign Language,4,1,0,5,5,4,4
 LSB,Brazilian Sign Language,9,8,0,16,53,8,45
 AUS,Australian Sign Language,5,0,0,1,1,11,11
 NGT,Dutch Sign Language,4,1,0,1,1,2,2
-DSL,Danish Sign Language,4,1,0,1,1,0,0
-CSE,Czech Sign Language,4,1,0,2,2,4,4
-LSC,Colombian Sign Language,8,5,0,17,27,5,7
-SCH,Chilean Sign Language,8,5,0,15,24,9,22
+DSL,Danish Sign Language,5,0,0,1,1,0,0
+CSE,Czech Sign Language,5,0,0,2,2,4,4
+LSC,Colombian Sign Language,9,8,0,17,30,5,9
+SCH,Chilean Sign Language,9,8,0,15,24,9,22
 LSF,French Sign Language,8,6,0,3,8,21,33
-STD,Estonian Sign Language,4,1,0,0,0,1,1
-SEC,Ecuadorian Sign Language,8,5,0,19,37,4,7
+STD,Estonian Sign Language,5,0,0,0,0,1,1
+SEC,Ecuadorian Sign Language,9,8,0,19,39,4,7
 LSM,Mexican Sign Language,8,5,0,16,45,8,24
 KSL,Korean Sign Language,8,1,0,23,38,1,2
 ISL,Italian Sign Language,8,2,0,11,15,13,16
@@ -35,8 +35,10 @@ LSE,Spanish Sign Language,8,5,0,23,38,1,6
 LSN,Nicaraguan Sign Language,4,1,0,13,13,4,4
 GSL,Greek Sign Language,4,1,0,2,2,1,1
 QSL,Israeli Sign Language,4,1,0,1,1,1,1
+SCR,Costa Rican Sign Language,1,4,0,17,17,2,2
 INI,Indonesian Sign Language,8,5,0,11,16,12,18
 BLS,Bulgarian Sign Language,1,4,0,1,1,1,1
+CSL,Chinese Sign Language,1,4,0,3,3,1,1
 LSG,Guatemalan Sign Language,8,5,0,18,31,6,7
 SBF,Belgian French Sign Language,1,4,0,0,0,4,4
 TTM,Madagascar Sign Language,4,1,0,12,15,11,16
@@ -44,14 +46,17 @@ OGS,Austrian Sign Language,1,4,0,2,2,2,2
 VGT,Flemish Sign Language,1,4,0,1,1,1,1
 MSL,Malawi Sign Language,8,5,0,11,16,12,14
 FSL,Filipino Sign Language,4,1,0,18,33,5,6
+CBS,Cuban Sign Language,1,4,0,0,0,1,1
 SHO,Honduras Sign Language,8,5,0,17,18,7,8
 SLM,Mozambican Sign Language,4,5,0,5,11,15,25
+HZJ,Croatian Sign Language,1,4,0,1,1,2,2
 ZAS,Zambian Sign Language,4,5,0,15,17,9,12
 ALS,Albanian Sign Language,1,4,0,1,1,2,2
 INS,Indian Sign Language,4,5,0,17,27,7,12
 LAS,Angolan Sign Language,1,8,0,20,36,2,11
 GHS,Ghanaian Sign Language,4,5,0,15,24,6,14
 CBL,Cambodian Sign Language,1,4,0,1,1,1,1
+LSS,Salvadoran Sign Language,1,4,0,9,9,8,8
 CRS,Central African Republic Sign Language,1,4,0,1,1,1,1
 CGS,Congolese Sign Language,4,4,0,13,19,7,30
 NNS,Nigerian Sign Language,4,5,0,18,28,5,13
