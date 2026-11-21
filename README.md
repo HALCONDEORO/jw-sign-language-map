@@ -23,7 +23,7 @@ Groups and pregroups are separate categories. A combined figure for congregation
 
 ## Current published research cut
 
-As of 21 November 2026: 389 additional geographic/country-focused queries, 415 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1327 classified congregations and 897 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 45 more congregations and 42 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 9 congregations and 9 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
+As of 21 November 2026: 421 additional geographic/country-focused queries, 442 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1378 classified congregations and 901 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 45 more congregations and 42 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 9 congregations and 9 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
@@ -61,7 +61,7 @@ Groups per million uses World Bank population for 2025: `groups in the selected 
 | `index.html` | Self-contained map. Download and open in a current browser, with no server or installation. |
 | `evidence.json` | Aggregate rows, source URLs, metadata and research-state information. |
 | `query-ledger.csv` | Non-personal request ledger, including language, date, broad search bounds and response size. |
-| `cobertura-zonas.csv` | Per-language research progress. This is not a territorial coverage percentage. |
+| `search-progress.csv` | Per-language research progress. This is not a territorial coverage percentage. |
 | `source_archive.py` | Reconstructable editable source archive, described below. |
 | `jw-sign-language-catalog.json` | Official JW publication-language catalog, checked against exact locator labels. Catalog presence is not meeting evidence. |
 | `language-research-queue.json` | Publication-only language labels needing separate meeting evidence; no invented locator filters. |
@@ -71,7 +71,7 @@ The map makes no automatic network requests. Libraries, map geometry and aggrega
 
 ### Rebuild or edit
 
-Download `source_archive.py` to an empty directory and inspect it before running:
+For the repository download, save `source_archive.py` to an empty directory and inspect it before running:
 
 ```sh
 python source_archive.py
@@ -79,7 +79,9 @@ python source_archive.py
 
 Python 3 and its standard library are sufficient. The script checks the embedded archive's SHA-256, extracts it into `source/`, and runs `source/build_standalone.py`. It does not use the network. Open `source/index.html` in a browser.
 
-The extracted directory contains editable HTML/JavaScript templates, CSS, aggregate data, geography, vendor libraries and licenses, plus `noticias.csv`, `historico.csv`, `localizador.csv`, `cobertura-zonas.csv` and `query-ledger.csv`. To rebuild after edits:
+If you received the editable source ZIP instead, extract it and run `python build_standalone.py` inside its root directory. Open the resulting `index.html`; no wrapper is needed for that ZIP.
+
+The extracted directory contains editable HTML/JavaScript templates, CSS, aggregate data, geography, vendor libraries and licenses, plus `news.csv`, `historical.csv`, `locator.csv`, `search-progress.csv` and `query-ledger.csv`. To rebuild after edits:
 
 ```sh
 python source/build_standalone.py
