@@ -59,3 +59,7 @@ Factual sources: jw.org news articles and its anonymous meeting locator. Links a
 Population: World Bank, indicator SP.POP.TOTL, 2025. Retrieved 21 November 2026. https://data.worldbank.org/indicator/sp.pop.totl . CC BY 4.0, terms: https://datacatalog.worldbank.org/public-licenses . Ratios are calculated from selected group counts; no estimate of deaf population or service need is implied.
 
 Continent and ISO metadata: Natural Earth, public domain. https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson .
+
+## D3 projection bundle
+
+The map view uses geoNaturalEarth1 and geoPath from d3-geo 3.1.1, bundled with d3-array 3.2.4 using esbuild. Both are ISC licensed, copyright Mike Bostock. Full license text is included in vendor/d3-geo-LICENSE and vendor/d3-array-LICENSE. No code, artwork or brand assets from the design reference sites have been copied.
