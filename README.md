@@ -16,7 +16,7 @@ Los sectores por país intersectan su polígono y las lenguas observadas; consul
 
 - 22 países con cifra nacional publicada, con fechas distintas entre 2022 y 2026. No es un total mundial actual.
 - Fase inicial: 101 consultas mundiales por lengua; 25 devolvieron 25 lugares.
-- Ampliación: 116 consultas geográficas adicionales; 96 sectores pendientes; 0 sectores al límite de resolución.
+- Ampliación: 136 consultas geográficas adicionales; 88 sectores pendientes; 0 sectores al límite de resolución.
 - Cada una de las 25 lenguas limitadas empieza por cuatro sectores del mundo. Si un sector devuelve 25 lugares, se divide en cuatro. Una consulta cada 25 segundos, sin sesión, sin paralelismo ni reintentos para superar bloqueos.
 - Los identificadores se deduplican entre consultas antes de contar. Las cifras se acumulan como observaciones, nunca como crecimiento ni como un censo nacional.
 - Menos de 25 resultados o agotar el plan de sectores no demuestra exhaustividad. Sin dato nunca significa cero. Un cero observado tampoco prueba ausencia.
