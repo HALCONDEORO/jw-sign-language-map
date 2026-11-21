@@ -15,13 +15,15 @@ This is not an official JW website, a live directory or a complete world census.
 
 **n/a means no figure is available, not zero.** A zero observed in one query does not prove absence. Blank CSV cells have the same meaning as n/a.
 
+In the historical layer, the archive-date selector defaults to the latest archived figure for each country. Choose a source date to inspect an older observation. Multiple dates for the same country are never added together. The latest news layer remains separate and can contain a newer figure.
+
 The layers must not be added together. They have different dates, scopes and collection methods. An increase in the observed sample is not evidence of real organizational growth. News figures retain qualifications such as approximately (≈), more than (>) or almost. Publishers are left blank unless the source gives a figure specifically for sign-language activity.
 
 Groups and pregroups are separate categories. A combined figure for congregations and groups is not converted into a count for either category. Branch territories and language-wide figures are not assigned to a single country without evidence. Those figures appear in a separate disclosure, outside national totals.
 
 ## Current published research cut
 
-As of 21 November 2026: 381 additional geographic/country-focused queries, 419 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1307 classified congregations and 896 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 45 more congregations and 42 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 9 congregations and 9 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
+As of 21 November 2026: 389 additional geographic/country-focused queries, 415 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1327 classified congregations and 897 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 45 more congregations and 42 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 9 congregations and 9 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
@@ -77,7 +79,7 @@ python source_archive.py
 
 Python 3 and its standard library are sufficient. The script checks the embedded archive's SHA-256, extracts it into `source/`, and runs `source/build_standalone.py`. It does not use the network. Open `source/index.html` in a browser.
 
-The extracted directory contains editable HTML/JavaScript templates, CSS, aggregate data, geography, vendor libraries and licenses, plus `noticias.csv`, `localizador.csv`, `cobertura-zonas.csv` and `query-ledger.csv`. To rebuild after edits:
+The extracted directory contains editable HTML/JavaScript templates, CSS, aggregate data, geography, vendor libraries and licenses, plus `noticias.csv`, `historico.csv`, `localizador.csv`, `cobertura-zonas.csv` and `query-ledger.csv`. To rebuild after edits:
 
 ```sh
 python source/build_standalone.py
