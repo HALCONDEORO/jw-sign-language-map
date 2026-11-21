@@ -7,10 +7,10 @@ MTS,Mauritian Sign Language,4,0,0,0,0,1,1
 FID,Finnish Sign Language,5,0,0,2,2,2,2
 JSL,Japanese Sign Language,4,5,0,3,4,20,30
 NDF,Norwegian Sign Language,4,1,0,1,1,0,0
-ASL,American Sign Language,14,12,0,15,81,8,51
+ASL,American Sign Language,18,20,0,15,114,8,59
 LSA,Argentinean Sign Language,5,4,0,18,33,5,20
 BSL,British Sign Language,4,1,0,5,5,4,4
-LSB,Brazilian Sign Language,17,12,0,16,110,8,110
+LSB,Brazilian Sign Language,20,9,0,16,112,8,118
 AUS,Australian Sign Language,5,0,0,1,1,11,11
 NGT,Dutch Sign Language,4,1,0,1,1,2,2
 DSL,Danish Sign Language,5,0,0,1,1,0,0
@@ -20,7 +20,7 @@ SCH,Chilean Sign Language,9,8,0,15,24,9,22
 LSF,French Sign Language,9,9,0,3,8,21,33
 STD,Estonian Sign Language,5,0,0,0,0,1,1
 SEC,Ecuadorian Sign Language,9,8,0,19,39,4,7
-LSM,Mexican Sign Language,15,14,0,16,93,8,49
+LSM,Mexican Sign Language,25,20,0,16,130,8,71
 KSL,Korean Sign Language,8,1,0,23,38,1,2
 ISL,Italian Sign Language,8,2,0,11,15,13,16
 HDF,Hungarian Sign Language,4,1,0,1,1,2,2
