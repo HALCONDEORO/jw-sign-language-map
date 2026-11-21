@@ -23,7 +23,7 @@ Groups and pregroups are separate categories. A combined figure for congregation
 
 ## Current published research cut
 
-As of 21 November 2026: 421 additional geographic/country-focused queries, 442 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1378 classified congregations and 901 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 45 more congregations and 42 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 9 congregations and 9 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
+As of 21 November 2026: 496 additional geographic/country-focused queries, 418 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1402 classified congregations and 936 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 44 more congregations and 40 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 10 congregations and 11 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
@@ -106,3 +106,10 @@ The public repository was requested by its owner. It excludes personal data, con
 D3-geo 3.1.2 and d3-array 3.2.5 use the ISC license; world-atlas 2.0.2 uses ISC; Natural Earth is public domain. World Bank population data is attributed under CC BY 4.0. Full applicable vendor notices are supplied in the editable source archive and `THIRD_PARTY_NOTICES.md`. No JW photographs, logos, videos or full articles are republished. No general redistribution license has yet been granted for the project's original code. Public access to the repository is not a blanket license for every source.
 
 This independent research has no affiliation with or endorsement from JW.org, Glottolog, WFD or the World Bank. Publication uses free GitHub Pages; no payment is required to view the map.
+
+
+## Mobile and dated people figures
+
+The initial view uses the meeting-locator sample. Each country card also has separate dated documentary evidence, never added to locator observations. Filters & view contains secondary map-data views. On mobile, selecting or searching for a country fits the map to it; map controls and Back to map have large touch targets.
+
+Dated people figures show the source qualifier and date. These are not current publisher counts. Attendance is a separate event measure, never a publisher estimate or an addition to the publisher count. Two attendance observations are included: more than 3,000 at Brazil deaf district conventions in 2001 (article dated 1 February 2003), and 2,317 in-person attendees at the Mexican Sign Language Bible release on 1 January 2023 (article dated 17 January 2023). Unquantified livestream viewers are not included. See attendance.csv for the official sources and scope.
