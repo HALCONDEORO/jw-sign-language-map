@@ -62,4 +62,4 @@ Continent and ISO metadata: Natural Earth, public domain. https://github.com/nvk
 
 ## D3 projection bundle
 
-The map view uses geoNaturalEarth1 and geoPath from d3-geo 3.1.1, bundled with d3-array 3.2.4 using esbuild. Both are ISC licensed, copyright Mike Bostock. Full license text is included in vendor/d3-geo-LICENSE and vendor/d3-array-LICENSE. No code, artwork or brand assets from the design reference sites have been copied.
+The map view uses geoNaturalEarth1 and geoPath from d3-geo 3.1.2, bundled with d3-array 3.2.5 using esbuild. Both are ISC licensed, copyright Mike Bostock. Full license text is included in vendor/d3-geo-LICENSE and vendor/d3-array-LICENSE. No code, artwork or brand assets from the design reference sites have been copied.
