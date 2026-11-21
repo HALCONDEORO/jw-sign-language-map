@@ -6,11 +6,17 @@ Actualización de zonas, 21 noviembre 2026. Repositorio de acceso abierto y web 
 
 Descarga index.html y ábrelo en un navegador actual. Es autocontenido, sin conexión ni instalación. El mapa tiene zoom, fichas por país, búsqueda y dos capas separadas: noticias con fecha y muestras del localizador. Los enlaces de fuentes se abren solo cuando pulsas en ellos. No se usan rastreadores, teselas externas ni llamadas de red automáticas.
 
+## Exploración y descarga
+
+La tabla agrega por país y permite ordenar cifras, filtrar continente/tipo y descargar el CSV de la selección. El nombre de capa distingue noticias fechadas de muestras del localizador, que nunca deben sumarse ni compararse como si fueran el mismo corte. Publicadores es s/d cuando la fuente no da una cifra específica de lengua de signos.
+
+Los sectores por país intersectan su polígono y las lenguas observadas; consultas padre e hijas se solapan. No son porcentajes de territorio. Grupos por millón usa población 2025 del Banco Mundial (CC BY 4.0), con fuente y año propios. Una muestra incompleta no permite medir atención o necesidades. La app muestra fecha/hora de corte y registro de cambios.
+
 ## Cobertura del corte
 
 - 22 países con cifra nacional publicada, con fechas distintas entre 2022 y 2026. No es un total mundial actual.
 - Fase inicial: 101 consultas mundiales por lengua; 25 devolvieron 25 lugares.
-- Ampliación: 104 consultas geográficas adicionales; 96 sectores pendientes; 0 sectores al límite de resolución.
+- Ampliación: 116 consultas geográficas adicionales; 96 sectores pendientes; 0 sectores al límite de resolución.
 - Cada una de las 25 lenguas limitadas empieza por cuatro sectores del mundo. Si un sector devuelve 25 lugares, se divide en cuatro. Una consulta cada 25 segundos, sin sesión, sin paralelismo ni reintentos para superar bloqueos.
 - Los identificadores se deduplican entre consultas antes de contar. Las cifras se acumulan como observaciones, nunca como crecimiento ni como un censo nacional.
 - Menos de 25 resultados o agotar el plan de sectores no demuestra exhaustividad. Sin dato nunca significa cero. Un cero observado tampoco prueba ausencia.
