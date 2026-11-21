@@ -1,0 +1,567 @@
+[
+  {
+    "name": "Albanian Sign Language",
+    "url": "https://www.jw.org/open?locale=sqk&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "American Sign Language",
+    "url": "https://www.jw.org/open?locale=ase&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Angolan Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-ao&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Argentinean Sign Language",
+    "url": "https://www.jw.org/open?locale=aed&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Armenian Sign Language",
+    "url": "https://www.jw.org/open?locale=aen&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Australian Sign Language",
+    "url": "https://www.jw.org/open?locale=asf&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Austrian Sign Language",
+    "url": "https://www.jw.org/open?locale=asq&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Bangla Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-bd&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Belgian French Sign Language",
+    "url": "https://www.jw.org/open?locale=sfb&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Benin Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-bj&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Bolivian Sign Language",
+    "url": "https://www.jw.org/open?locale=bvl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Botswana Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-bw&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Brazilian Sign Language",
+    "url": "https://www.jw.org/open?locale=bzs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "British Sign Language",
+    "url": "https://www.jw.org/open?locale=bfi&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Bulgarian Sign Language",
+    "url": "https://www.jw.org/open?locale=bqn&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Burkina Faso Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-bf&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Burundi Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-bi&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Cambodian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-kh&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Cameroon Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-cm&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Catalan Sign Language",
+    "url": "https://www.jw.org/open?locale=csc&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Central African Republic Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-cf&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Chilean Sign Language",
+    "url": "https://www.jw.org/open?locale=csg&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Chinese Sign Language",
+    "url": "https://www.jw.org/open?locale=csl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Colombian Sign Language",
+    "url": "https://www.jw.org/open?locale=csn&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Congolese Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-cd&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Costa Rican Sign Language",
+    "url": "https://www.jw.org/open?locale=csr&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Croatian Sign Language",
+    "url": "https://www.jw.org/open?locale=csq&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Cuban Sign Language",
+    "url": "https://www.jw.org/open?locale=csf&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Czech Sign Language",
+    "url": "https://www.jw.org/open?locale=cse&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Danish Sign Language",
+    "url": "https://www.jw.org/open?locale=dsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Dominican Sign Language",
+    "url": "https://www.jw.org/open?locale=doq&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Dutch Sign Language",
+    "url": "https://www.jw.org/open?locale=dse&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Ecuadorian Sign Language",
+    "url": "https://www.jw.org/open?locale=ecs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Eritrean Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-er&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Estonian Sign Language",
+    "url": "https://www.jw.org/open?locale=eso&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Ethiopian Sign Language",
+    "url": "https://www.jw.org/open?locale=eth&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Fiji Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-fj&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Filipino Sign Language",
+    "url": "https://www.jw.org/open?locale=psp&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Finnish Sign Language",
+    "url": "https://www.jw.org/open?locale=fse&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Flemish Sign Language",
+    "url": "https://www.jw.org/open?locale=vgt&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "French Sign Language",
+    "url": "https://www.jw.org/open?locale=fsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Georgian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-ge&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "German Sign Language",
+    "url": "https://www.jw.org/open?locale=gsg&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Ghanaian Sign Language",
+    "url": "https://www.jw.org/open?locale=gse&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Greek Sign Language",
+    "url": "https://www.jw.org/open?locale=gss&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Guatemalan Sign Language",
+    "url": "https://www.jw.org/open?locale=gsm&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Honduras Sign Language",
+    "url": "https://www.jw.org/open?locale=hds&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Hong Kong Sign Language",
+    "url": "https://www.jw.org/open?locale=hks&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Hungarian Sign Language",
+    "url": "https://www.jw.org/open?locale=hsh&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Indian Sign Language",
+    "url": "https://www.jw.org/open?locale=ins&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Indonesian Sign Language",
+    "url": "https://www.jw.org/open?locale=inl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Irish Sign Language",
+    "url": "https://www.jw.org/open?locale=isg&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Israeli Sign Language",
+    "url": "https://www.jw.org/open?locale=isr&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Italian Sign Language",
+    "url": "https://www.jw.org/open?locale=ise&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Ivorian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-ci&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Jamaican Sign Language",
+    "url": "https://www.jw.org/open?locale=jls&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Japanese Sign Language",
+    "url": "https://www.jw.org/open?locale=jsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Kenyan Sign Language",
+    "url": "https://www.jw.org/open?locale=xki&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Korean Sign Language",
+    "url": "https://www.jw.org/open?locale=kvk&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Latvian Sign Language",
+    "url": "https://www.jw.org/open?locale=lsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Lebanese Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-lb&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Lithuanian Sign Language",
+    "url": "https://www.jw.org/open?locale=lls&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Madagascar Sign Language",
+    "url": "https://www.jw.org/open?locale=mzc&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Malawi Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-mw&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Malaysian Sign Language",
+    "url": "https://www.jw.org/open?locale=xml&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Maltese Sign Language",
+    "url": "https://www.jw.org/open?locale=mdl&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Mauritian Sign Language",
+    "url": "https://www.jw.org/open?locale=lsy&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Melanesian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-pg&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Mexican Sign Language",
+    "url": "https://www.jw.org/open?locale=mfs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Mongolian Sign Language",
+    "url": "https://www.jw.org/open?locale=msr&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Mozambican Sign Language",
+    "url": "https://www.jw.org/open?locale=mzy&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Myanmar Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-mm&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Namibian Sign Language",
+    "url": "https://www.jw.org/open?locale=nbs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Nepali Sign Language",
+    "url": "https://www.jw.org/open?locale=nsp&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "New Zealand Sign Language",
+    "url": "https://www.jw.org/open?locale=nzs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Nicaraguan Sign Language",
+    "url": "https://www.jw.org/open?locale=ncs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Nigerian Sign Language",
+    "url": "https://www.jw.org/open?locale=nsi&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Norwegian Sign Language",
+    "url": "https://www.jw.org/open?locale=nsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Panamanian Sign Language",
+    "url": "https://www.jw.org/open?locale=lsp&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Paraguayan Sign Language",
+    "url": "https://www.jw.org/open?locale=pys&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Peruvian Sign Language",
+    "url": "https://www.jw.org/open?locale=prl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Polish Sign Language",
+    "url": "https://www.jw.org/open?locale=pso&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Portuguese Sign Language",
+    "url": "https://www.jw.org/open?locale=psr&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Quebec Sign Language",
+    "url": "https://www.jw.org/open?locale=fcs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Romanian Sign Language",
+    "url": "https://www.jw.org/open?locale=rms&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Russian Sign Language",
+    "url": "https://www.jw.org/open?locale=rsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Rwandan Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-rw&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Salvadoran Sign Language",
+    "url": "https://www.jw.org/open?locale=esn&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Samoan Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-ws&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Serbian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-rs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Singapore Sign Language",
+    "url": "https://www.jw.org/open?locale=sls&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Slovak Sign Language",
+    "url": "https://www.jw.org/open?locale=svk&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Slovenian Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-si&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "South African Sign Language",
+    "url": "https://www.jw.org/open?locale=sfs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Spanish Sign Language",
+    "url": "https://www.jw.org/open?locale=ssp&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Sri Lankan Sign Language",
+    "url": "https://www.jw.org/open?locale=sqs&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Suriname Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-sr&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Swazi Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-sz&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Swedish Sign Language",
+    "url": "https://www.jw.org/open?locale=swl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Swiss German Sign Language",
+    "url": "https://www.jw.org/open?locale=sgg&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Taiwanese Sign Language",
+    "url": "https://www.jw.org/open?locale=tss&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Tanzanian Sign Language",
+    "url": "https://www.jw.org/open?locale=tza&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Thai Sign Language",
+    "url": "https://www.jw.org/open?locale=tsq&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Togo Sign Language",
+    "url": "https://www.jw.org/open?locale=sgn-tg&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Trinidad and Tobago Sign Language",
+    "url": "https://www.jw.org/open?locale=lst&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Turkish Sign Language",
+    "url": "https://www.jw.org/open?locale=tsm&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Ugandan Sign Language",
+    "url": "https://www.jw.org/open?locale=ugn&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Ukrainian Sign Language",
+    "url": "https://www.jw.org/open?locale=ukl&prefer=lang&srcid=langpicker",
+    "locatorExactName": false
+  },
+  {
+    "name": "Uruguayan Sign Language",
+    "url": "https://www.jw.org/open?locale=ugy&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Venezuelan Sign Language",
+    "url": "https://www.jw.org/open?locale=vsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Vietnamese Sign Language",
+    "url": "https://www.jw.org/open?locale=hab&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Zambian Sign Language",
+    "url": "https://www.jw.org/open?locale=zsl&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  },
+  {
+    "name": "Zimbabwe Sign Language",
+    "url": "https://www.jw.org/open?locale=zib&prefer=lang&srcid=langpicker",
+    "locatorExactName": true
+  }
+]
