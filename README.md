@@ -4,7 +4,7 @@ Actualización de zonas, 21 noviembre 2026. Repositorio de acceso abierto y web 
 
 ## Abrir
 
-Descarga index.html y ábrelo en un navegador actual. Es autocontenido, sin conexión ni instalación. El mapa tiene zoom, fichas por país, búsqueda y dos capas separadas: noticias con fecha y muestras del localizador. Los enlaces de fuentes se abren solo cuando pulsas en ellos. No se usan rastreadores, teselas externas ni llamadas de red automáticas.
+Descarga index.html y ábrelo en un navegador actual. Es autocontenido, sin conexión ni instalación. El mapa tiene zoom, fichas por país, búsqueda y tres capas separadas: localizador, noticias fechadas y archivo histórico. Los enlaces de fuentes se abren solo cuando pulsas en ellos. No se usan rastreadores, teselas externas ni llamadas de red automáticas.
 
 ## Exploración y descarga
 
@@ -16,7 +16,7 @@ Los sectores por país intersectan su polígono y las lenguas observadas; consul
 
 - 22 países con cifra nacional publicada, con fechas distintas entre 2022 y 2026. No es un total mundial actual. Archivo histórico separado: Argentina (2020) y República Dominicana (cifra agosto 2014, Anuario 2015).
 - Fase inicial: 101 consultas mundiales por lengua; 25 devolvieron 25 lugares.
-- Ampliación: 184 consultas geográficas adicionales; 376 sectores pendientes; 0 sectores al límite de resolución.
+- Ampliación: 220 consultas geográficas adicionales; 344 sectores pendientes; 0 sectores al límite de resolución.
 - Cada una de las 101 lenguas del catálogo se revisa en cuatro sectores del mundo. Las 25 que devolvieron el límite de 25 lugares se priorizaron; las otras 76 también pasan por la revisión geográfica. Si un sector devuelve 25 lugares, se divide en cuatro. Una consulta cada 25 segundos, sin sesión, sin paralelismo ni reintentos para superar bloqueos.
 - Los identificadores se deduplican entre consultas antes de contar. Las cifras se acumulan como observaciones, nunca como crecimiento ni como un censo nacional.
 - Menos de 25 resultados o agotar el plan de sectores no demuestra exhaustividad. Sin dato nunca significa cero. Un cero observado tampoco prueba ausencia.
@@ -34,6 +34,6 @@ Si descargas source_archive.py del repo, ese archivo contiene el mismo código e
 
 Solo agregados por país y lengua. No se incluyen nombres de personas o congregaciones, teléfonos, direcciones, horarios, coordenadas de reuniones ni identificadores individuales. Los enlaces de las consultas contienen únicamente idioma, centro de búsqueda y límites de los sectores, no ubicaciones de reuniones.
 
-D3-geo 3.1.1 y d3-array 3.2.4 (ISC), world-atlas 2.0.2 (ISC) y Natural Earth, con licencias completas incluidas. No se copian fotos, logotipos, vídeos ni artículos íntegros de jw.org. Código propio sin licencia de redistribución concedida por ahora.
+D3-geo 3.1.2 y d3-array 3.2.5 (ISC), world-atlas 2.0.2 (ISC) y Natural Earth, con licencias completas incluidas. No se copian fotos, logotipos, vídeos ni artículos íntegros de jw.org. Código propio sin licencia de redistribución concedida por ahora.
 
 Publicación solicitada por el propietario. La web y el repositorio contienen únicamente datos agregados, fuentes y código sin datos personales. La web se puede consultar en https://halcondeoro.github.io/jw-sign-language-map/ .
