@@ -53,3 +53,9 @@ THIS SOFTWARE.
 Map source: Natural Earth 1:110m, version 4.1.0 as distributed in world-atlas 2.0.2. Geographic boundaries are schematic and do not express a political position.
 
 Factual sources: jw.org news articles and its anonymous meeting locator. Links and dates are kept with the figures. No affiliation, endorsement, images, logos, media or full article texts are included.
+
+## Population and continent metadata
+
+Population: World Bank, indicator SP.POP.TOTL, 2025. Retrieved 21 November 2026. https://data.worldbank.org/indicator/sp.pop.totl . CC BY 4.0, terms: https://datacatalog.worldbank.org/public-licenses . Ratios are calculated from selected group counts; no estimate of deaf population or service need is implied.
+
+Continent and ISO metadata: Natural Earth, public domain. https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson .
