@@ -21,7 +21,7 @@ Groups and pregroups are separate categories. A combined figure for congregation
 
 ## Current published research cut
 
-As of 21 November 2026: 292 additional geographic/country-focused queries, 400 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 950 classified congregations and 666 classified groups in 117 countries/territories, covering 99 language filters and 132 country-language rows. The news layer has 22 national rows with their original dates.
+As of 21 November 2026: 320 additional geographic/country-focused queries, 420 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1073 classified congregations and 771 classified groups in 117 countries/territories, covering 99 language filters and 133 country-language rows. The news layer has 22 national rows with their original dates.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
