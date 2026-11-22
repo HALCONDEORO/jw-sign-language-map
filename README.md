@@ -1,10 +1,22 @@
+**Live interactive atlas: [Open the map](https://halcondeoro.github.io/jw-sign-language-map/)**
+
 # Sign-language congregations and groups: a source-based atlas
 
 An independent, interactive map of aggregate figures reported by Jehovah's Witnesses for sign-language congregations, groups and publishers. Countries can have more than one sign language. A congregation's country is not the same thing as the language it uses.
 
-**Open the map:** https://halcondeoro.github.io/jw-sign-language-map/
-
 This is not an official JW website, a live directory or a complete world census. No personal or congregation-level directory is published. The interface and project documentation are in English.
+
+## Publication status and remaining evidence gaps
+
+The published map is **v9, released on 22 November 2026**. The planned locator search tree is complete, but the evidence is not a complete world census. Further research must not be confused with unsearched countries or new organizational growth.
+
+Work now focuses on these unresolved gaps:
+
+- **Country assignment:** 14 congregations and 17 groups are observed but excluded from country totals because their returned locations could not be assigned to one country with the current land polygons. A nearby coast or country is a research lead, not sufficient evidence for reassignment.
+- **Unavailable exact language filters:** Armenian, Catalan, Dominican, Eritrean, Georgian, Hong Kong, Lebanese, Maltese, Singapore, Slovenian, Trinidad and Tobago, and Ukrainian Sign Languages appear in the publication catalogue but have no exact-name counterpart in the recorded locator catalogue comparison. This does not prove that meetings are absent. A publication language, a spoken-language filter, or another sign language used in the same country cannot substitute for verified meeting evidence.
+- **Remote-only meetings:** no verified, deduplicated total is available. Remote and in-person observations must not be added without evidence that they refer to different entities.
+
+New documentary findings will retain their original date and qualifiers. They will not replace current locator observations or turn an unknown value into zero. The downloadable source archive remains the frozen v9 code and data snapshot; this README also tracks the follow-up research.
 
 ## Read the map
 
@@ -107,7 +119,6 @@ D3-geo 3.1.2 and d3-array 3.2.5 use the ISC license; world-atlas 2.0.2 uses ISC;
 
 This independent research has no affiliation with or endorsement from JW.org, Glottolog, WFD or the World Bank. Publication uses free GitHub Pages; no payment is required to view the map.
 
-
 ## Mobile and dated people figures
 
 The initial view uses the meeting-locator sample. Each country card also has separate dated documentary evidence, never added to locator observations. Filters & view contains secondary map-data views. On mobile, selecting or searching for a country fits the map to it; map controls and Back to map have large touch targets.
@@ -119,7 +130,6 @@ Dated people figures show the source qualifier and date. These are not current p
 The interface includes the official JW publication selector catalogue of 113 sign languages, checked on 21 November 2026. Of these, 12 had no exact-name meeting-locator filter in the recorded catalogue comparison. Publication availability is not evidence of meetings. The catalogue includes a separate source link for each language.
 
 Selecting a meeting-locator language displays its worldwide observed congregations, groups and countries/territories. This worldwide summary is independent of country search and continent filters; the map and country table retain their own filters. It is a sample, not a census.
-
 
 ## v9 research update
 
