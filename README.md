@@ -23,7 +23,7 @@ Groups and pregroups are separate categories. A combined figure for congregation
 
 ## Current published research cut
 
-As of 2026-11-22: 800 additional geographic/country-focused queries, 302 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1559 classified congregations and 1074 classified groups in 127 countries/territories, covering 100 language filters and 135 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 48 more congregations and 43 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 14 congregations and 16 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
+As of 2026-11-22: 1526 additional geographic/country-focused queries, 0 queued rectangles and 0 rectangles at the depth limit. The published locator sample contains 1572 classified congregations and 1095 classified groups in 128 countries/territories, covering 100 language filters and 136 country-language rows. The news layer has 22 national rows with their original dates. With the same observations, the finer 1:10m country polygons classify 48 more congregations and 43 more groups than the previous 1:110m polygons. Those differences are reclassification, not new observations. 14 congregations and 17 groups remain unclassified. The aggregate comparison is recorded in evidence.json.
 
 These are research-state figures for this repository, not coverage percentages. Process counters, the queue and collection logs are not part of the map interface. The initial locator sweep queried 101 sign-language filters; 25 responses reached the 25-place response limit.
 
@@ -119,3 +119,12 @@ Dated people figures show the source qualifier and date. These are not current p
 The interface includes the official JW publication selector catalogue of 113 sign languages, checked on 21 November 2026. Of these, 12 had no exact-name meeting-locator filter in the recorded catalogue comparison. Publication availability is not evidence of meetings. The catalogue includes a separate source link for each language.
 
 Selecting a meeting-locator language displays its worldwide observed congregations, groups and countries/territories. This worldwide summary is independent of country search and continent filters; the map and country table retain their own filters. It is a sample, not a census.
+
+
+## v9 research update
+
+The locator collection queue was exhausted on 22 November 2026 at 14:24:58 UTC, after 1,526 regional queries plus 101 separately recorded initial language-filter queries. This closes the planned query tree, not a world census. Both depth-8 truncated boxes were refined at depth 9; no depth-limit truncations remain in that recorded tree.
+
+Compared with approved v8, the classified sample adds 13 congregations and 21 groups: Belize (ASL) 0/3; Brazil (LSB) 270/243; Gabon (CML) 3/3; Haiti (ASL) 5/4; Japan (JSL) 5/44. Fourteen congregations and 17 groups remain geographically unclassified and are excluded from country totals. Figures describe observations, not organizational growth.
+
+Kosovo metadata is corrected from Africa to Europe. Metadata joins now use an unambiguous exact administrative name first, then a unique valid numeric ISO key. The shared missing-value sentinel -99 is never used as an ISO join key. Regressions cover Kosovo, Northern Cyprus and Somaliland; this does not change sovereignty labels, borders or congregation quantities. Natural Earth source: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson .
