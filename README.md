@@ -8,7 +8,7 @@ This is not an official JW website, a live directory or a complete world census.
 
 ## Publication status and remaining evidence gaps
 
-The published map is **v9, released on 22 November 2026**. The planned locator search tree is complete, but the evidence is not a complete world census. Further research must not be confused with unsearched countries or new organizational growth.
+The map is **v10, released on 22 November 2026**, with clearer country-card scope, direct Map/Table controls and larger mobile controls. Its locator observations are the unchanged v9 research cut. The planned locator search tree is complete, but the evidence is not a complete world census. Further research must not be confused with unsearched countries or new organizational growth.
 
 Work now focuses on these unresolved gaps:
 
@@ -16,14 +16,14 @@ Work now focuses on these unresolved gaps:
 - **Unavailable exact language filters:** Armenian, Catalan, Dominican, Eritrean, Georgian, Hong Kong, Lebanese, Maltese, Singapore, Slovenian, Trinidad and Tobago, and Ukrainian Sign Languages appear in the publication catalogue but have no exact-name counterpart in the recorded locator catalogue comparison. This does not prove that meetings are absent. A publication language, a spoken-language filter, or another sign language used in the same country cannot substitute for verified meeting evidence.
 - **Remote-only meetings:** no verified, deduplicated total is available. Remote and in-person observations must not be added without evidence that they refer to different entities.
 
-New documentary findings will retain their original date and qualifiers. They will not replace current locator observations or turn an unknown value into zero. The downloadable source archive remains the frozen v9 code and data snapshot; this README also tracks the follow-up research.
+New documentary findings will retain their original date and qualifiers. They will not replace current locator observations or turn an unknown value into zero. The downloadable source archive reproduces this v10 interface and aggregate data, including the unchanged v9 locator observations. It also includes this README.
 
 ## Read the map
 
-1. The initial view shows meeting-locator figures. Dated news and historical observations are integrated as separate sections in each country card, never summed. For secondary map views, open Filters & view and choose Map data: **Meeting locator** (meeting-locator observations), **Dated news** (dated national news figures), or **Historical** (older documentary figures).
+1. The initial view shows meeting-locator figures. Dated news and historical observations are integrated as separate sections in each country card, never summed. For secondary map views, open Filters and choose Map data: **Meeting locator** (meeting-locator observations), **Dated news** (dated national news figures), or **Historical** (older documentary figures).
 2. Choose congregations, groups or publishers. In the locator layer, the language selector can restrict the quantities to one exact language filter. The colors use the legend shown beneath the map.
 3. Select a country or territory, or search for a country or sign-language label. The country card shows its aggregate figures, dates, language breakdown where available and the source links supporting the figure.
-4. Use the table for sorting and filtering. Download CSV exports the current selection, with source links and dates.
+4. Switch directly between Map and Table without clearing your filters. The controls stay available at the bottom of the screen on phones. Tap a country or use Open country figures for a full-screen card, with Map and Table actions at the top. Use the table for sorting and filtering. Download CSV exports the current selection, with source links and dates.
 
 **n/a means no figure is available, not zero.** A zero observed in one query does not prove absence. Blank CSV cells have the same meaning as n/a.
 
@@ -32,6 +32,10 @@ In the historical layer, the archive-date selector defaults to the latest archiv
 The layers must not be added together. They have different dates, scopes and collection methods. An increase in the observed sample is not evidence of real organizational growth. News figures retain qualifications such as approximately (≈), more than (>) or almost. Publishers are left blank unless the source gives a figure specifically for sign-language activity.
 
 Groups and pregroups are separate categories. A combined figure for congregations and groups is not converted into a count for either category. Branch territories and language-wide figures are not assigned to a single country without evidence. Those figures appear in a separate disclosure, outside national totals.
+
+### Legal context is separate from quantities
+
+Red diagonal hatching indicates documented legal bans or restrictions on worship (Russia and Eritrea). Red dots indicate conscientious-objection prosecutions (Singapore and Ukraine, the latter during mobilization), not a general ban on worship. The official supporting report is explicitly current as of November 2026. Each country card states its own category and links to the source. The map does not treat the separate Crimea section of that report as evidence about Ukrainian authorities, change borders or add a separate country. The overlay is not sign-language-specific and never means a numeric zero. Absence of an overlay does not prove unrestricted activity. Tayikistan, Uzbekistan and Turkmenistan have not been added from older or undated sources.
 
 ## Current published research cut
 
