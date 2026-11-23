@@ -16,3 +16,9 @@ test('Five general religious-freedom contexts are dated and narrowly scoped',()=
  assert.match(data.legalContext.find(x=>x.code==='VN').note,/January 2027 are not presented here as already in force/);
  assert.match(data.legalContext.find(x=>x.code==='DZ').note,/formally permits non-Muslim worship/);
 });
+
+test('Twenty-four additional country contexts preserve exact geo keys and dated caveats',()=>{
+const expected={"IR":"Iran","IQ":"Iraq","SY":"Syria","AF":"Afghanistan","LY":"Libya","UZ":"Uzbekistan","BY":"Belarus","LA":"Laos","MA":"Morocco","TN":"Tunisia","QA":"Qatar","OM":"Oman","KW":"Kuwait","BH":"Bahrain","JO":"Jordan","AE":"United Arab Emirates","LB":"Lebanon","BN":"Brunei","MV":"Maldives","BT":"Bhutan","MR":"Mauritania","SO":"Somalia","DJ":"Djibouti","KM":"Comoros"};
+for(const [code,name]of Object.entries(expected)){const r=data.legalContext.find(x=>x.code===code);assert.equal(r.geoName,name);assert.match(r.note,/not a verified sign-language congregation count or numeric zero/);assert.match(r.note,/Missing locator data is not zero/);assert.match(r.asOf,/^\d{4}-\d{2}$/);}
+for(const name of ['Somaliland','N. Cyprus','Yemen'])assert.ok(!data.legalContext.some(x=>x.geoName===name));
+});
