@@ -16,7 +16,13 @@ Work now focuses on these unresolved gaps:
 - **Unavailable exact language filters:** Armenian, Catalan, Dominican, Eritrean, Georgian, Hong Kong, Lebanese, Maltese, Singapore, Slovenian, Trinidad and Tobago, and Ukrainian Sign Languages appear in the publication catalogue but have no exact-name counterpart in the recorded locator catalogue comparison. This does not prove that meetings are absent. A publication language, a spoken-language filter, or another sign language used in the same country cannot substitute for verified meeting evidence.
 - **Remote-only meetings:** no verified, deduplicated total is available. Remote and in-person observations must not be added without evidence that they refer to different entities.
 
-New documentary findings will retain their original date and qualifiers. They will not replace current locator observations or turn an unknown value into zero. The downloadable source archive remains the frozen v9 code and data snapshot; this README also tracks the follow-up research.
+New documentary findings will retain their original date and qualifiers. They will not replace current locator observations or turn an unknown value into zero. The downloadable source archive includes the dated Poland update described below; unrelated locator observations and interface code remain unchanged.
+
+## Poland: complete Bible, November 2026
+
+The official announcement published on 25 November 2026 reports the complete Polish Sign Language Bible release in Warsaw on 7 November. Dated news now records 11 congregations and 11 groups. The announcement also reports approximately 600 brothers and sisters, without identifying that figure as publishers; it is retained in the source note, outside publisher fields and totals. The 2022 observation is retained in Historical, not added to the new figures. The locator sample is unchanged. The source also reports about 50,000 language users, a different population from publishers, and event attendance of 902 in person with 251 connecting by video. Event attendance is stored separately.
+
+[Official announcement](https://www.jw.org/es/noticias/region/polonia/Se-presenta-la-Traducci%C3%B3n-del-Nuevo-Mundo-completa-en-lengua-de-se%C3%B1as-polaca/)
 
 ## Read the map
 
