@@ -20,7 +20,7 @@ New documentary findings will retain their original date and qualifiers. They wi
 
 ## Poland: complete Bible, November 2026
 
-The official announcement published on 25 November 2026 reports the complete Polish Sign Language Bible release in Warsaw on 7 November. Dated news now records 11 congregations, 11 groups and approximately 600 publishers. The 2022 observation is retained in Historical, not added to the new figures. The locator sample is unchanged. The source also reports about 50,000 language users, a different population from publishers, and event attendance of 902 in person with 251 connecting by video. Event attendance is stored separately.
+The official announcement published on 25 November 2026 reports the complete Polish Sign Language Bible release in Warsaw on 7 November. Dated news now records 11 congregations and 11 groups. The announcement also reports approximately 600 brothers and sisters, without identifying that figure as publishers; it is retained in the source note, outside publisher fields and totals. The 2022 observation is retained in Historical, not added to the new figures. The locator sample is unchanged. The source also reports about 50,000 language users, a different population from publishers, and event attendance of 902 in person with 251 connecting by video. Event attendance is stored separately.
 
 [Official announcement](https://www.jw.org/es/noticias/region/polonia/Se-presenta-la-Traducci%C3%B3n-del-Nuevo-Mundo-completa-en-lengua-de-se%C3%B1as-polaca/)
 
